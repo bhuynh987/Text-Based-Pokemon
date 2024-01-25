@@ -1,0 +1,14 @@
+src/AttackDown.class
+src/Water.class
+src/Trainer.class
+src/PokemonGenerator.class
+src/PokemonDecorator.class
+src/Pokemon.class
+src/Map.class
+src/Main.class
+src/HpUp.class
+src/HpDown.class
+src/Grass.class
+src/Fire.class
+src/Entity.class
+src/AttackUp.class
